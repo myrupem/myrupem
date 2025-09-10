@@ -6,6 +6,22 @@ Right now, I'm expanding my skills by diving into **Node.js** and **SwiftUI**, a
   
 ### 🌱 Currently learning
 - Node.js  
-- SwiftUI  
+- SwiftUI
 
+## 🛠 Technical Skills
+
+### Languages
+- JavaScript
+
+### Front-end
+- HTML
+- CSS
+- React JS
+
+### Back-end
+- Node JS
+- MongoDB
+
+### Other Interests
+- Other than coding, I enjoy running half marathons and knitting.
 
