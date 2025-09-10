@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**myrupem/myrupem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Emilia Myrup — Web Developer  
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **Emilia Myrup** — a web developer passionate about turning ideas into interactive and user-friendly experiences.  
+I love working at the intersection of **code, design, and usability**, with a strong focus on clean UI/UX.  
+Right now, I'm expanding my skills by diving into **Node.js** and **SwiftUI**, aiming to grow as a versatile developer who can bring both web and mobile projects to life.  
+  
+### 🌱 Currently learning
+- Node.js  
+- SwiftUI  
+
+
