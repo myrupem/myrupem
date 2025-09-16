@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 I'm **Emilia Myrup** — a frontend developer with a background in film- and tv production, passionate about turning ideas into interactive and user-friendly experiences.  
 I love working at the intersection of **code, design, and usability**, with a strong focus on clean UI/UX.  
