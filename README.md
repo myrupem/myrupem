@@ -1,18 +1,19 @@
 # Hi 👋
 
-I'm **Emilia Myrup** — a frontend developer with a background in film- and tv production, passionate about turning ideas into interactive and user-friendly experiences.  
+I'm Emilia Myrup — a frontend developer with a background in film- and tv production, passionate about turning ideas into interactive and user-friendly experiences.  
 
 ## 🛠 Technical Skills
 
-### Languages
-- JavaScript
-
-### Front-end
+#### Front-end
 - HTML
 - CSS
-- React JS
+- React
+- Javascript
+- Figma
 
-### Back-end
+#### Back-end
 - Node JS
 - MongoDB
+- Express
+- AWS
 
